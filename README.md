@@ -27,6 +27,14 @@ A professional dashboard built using simulated instant delivery data inspired by
 - Drillthrough, Cards, Donut/Map Visuals
 - Custom Bookmark Interactions
 
+ ## 🛠 How to View the Dashboard
+
+1. Download the `.pbit` file from this repo.
+2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+3. Click **Load** to explore the fully built dashboard
+4. You can also check the **PDF preview** if Power BI isn't installed
+
+
 ---
 
 ## 👨‍💻 Author:
